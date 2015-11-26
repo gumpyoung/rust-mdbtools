@@ -1,0 +1,7 @@
+build_targets=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<build_targets xmlns\="com.github.rustdt.ide.core">\n<target config\="crate\#no-tests" enabled\="true"/>\n<target config\="crate\#tests" enabled\="true" exe_path\="test" options\="test"/>\n</build_targets>\n
+eclipse.preferences.version=1
+prj_auto_build_disabled=true
+racer_path=/Users/steven/.multirust/toolchains/beta/cargo/bin/racer
+sdk_path=/usr/local
+sdk_src_path=/Users/Shared/study/rustc-1.4.0/src
+toolchain_prefs.use_project_settings=false
